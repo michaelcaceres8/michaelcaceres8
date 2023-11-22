@@ -9,7 +9,7 @@
 
 <h3 align="left">Podcasts Lessons:</h3>
 <p align="left">
-  Check out my podcasts lessons on [Notion](https://lilac-mousepad-895.notion.site/Podcasts-lessons-0d882ef565d44ad692cf1743bbadebcc?pvs=4).
+  Check out my podcasts lessons on (https://bit.ly/3iBt9hH).
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
