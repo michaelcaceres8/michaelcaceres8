@@ -1,6 +1,6 @@
 <h3 align="center">Data Analyst</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/michael-caceres-siguenza/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" height="30" />
@@ -9,7 +9,7 @@
 
 <h3 align="left">Podcasts Lessons:</h3>
 <p align="left">
-  Check out my podcasts lessons on (https://bit.ly/3iBt9hH).
+  Check out my podcasts lessons on https://bit.ly/3MUTRUc
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
